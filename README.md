@@ -18,7 +18,7 @@ The primary objective of this project was to design and assemble a fully autonom
 
 * Arduino Microcontroller (Logic & Control)
 * 4x DC Gear Motors & Wheels (4WD System)
-* Motor Driver Module (e.g., L298N / L293D)
+* Motor Driver Module 
 * HC-SR04 Ultrasonic Distance Sensor
 * Micro Servo Motor (For sensor panning)
 * Custom Circuit Board (Manually soldered)
